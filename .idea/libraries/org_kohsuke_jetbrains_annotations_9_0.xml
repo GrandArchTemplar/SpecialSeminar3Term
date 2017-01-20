@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.kohsuke.jetbrains:annotations:9.0" type="repository">
+    <properties maven-id="org.kohsuke.jetbrains:annotations:9.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/annotations-9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
